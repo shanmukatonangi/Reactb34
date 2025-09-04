@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+body{
+  background-color:white
+}
+
+
+
+.shanmukh{
+/* From https://css.glass */
+background: rgba(229, 223, 223, 0.05);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(9.2px);
+-webkit-backdrop-filter: blur(9.2px);
+border: 1px solid rgba(255, 255, 255, 0.22);
+}
+
+
+.fontcss{
+  font-size: 400px;
+  text-shadow: 20px 20px 30px rgba(0, 0, 0, 0.459);
+}

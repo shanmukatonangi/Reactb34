@@ -10,6 +10,8 @@ const App = () => {
 <div>
 <Navbar />
 
+<h1 className='shanmukh'>im shanmukh</h1>
+
 </div>
   )
 }
